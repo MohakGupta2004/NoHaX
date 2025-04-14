@@ -26,6 +26,12 @@ While still in development, future versions of `NoHaX` could:
 
 ---
 
+---
+```
+gcc nohax.c; ./a.out
+```
+---
+
 ### 🛑 **Disclaimer**:
 This tool is meant for **educational purposes only**. Unauthorized use of malware, miners, or persistence techniques on systems you don’t own or manage is illegal and unethical.
 
